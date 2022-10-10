@@ -1,0 +1,44 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.Heading{
+    color: white;
+    text-align: center;
+    border: 1px solid beige;
+    background-image: url("1068794.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.Stuff{
+    color: black;
+    text-align: left;
+    background-color: aquamarine;
+    border: 1px solid white;
+    
+}
+
+.Stuff2{
+    color: black;
+    text-align: left;
+    background-color: pink;
+    border: 1px solid white;
+}
+
+.Writeup{
+    color: black;
+    text-align: center;
+    overflow-y: scroll;
+    background-color: greenyellow;
+    border: 1px solid white;
+}
+
+.Writeup2{
+    color: black;
+    text-align: center;
+    overflow-y: scroll;
+    background-color: orange;
+    border: 1px solid white;
+}
